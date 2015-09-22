@@ -1,0 +1,9 @@
+{
+  "name": "sergey07/parrot-php",
+  "type": "library",
+  "description": "PHP framework",
+  "require": {
+    "php": ">=5.4.0",
+    "phpmailer/phpmailer": "5.2.13"
+  }
+}
